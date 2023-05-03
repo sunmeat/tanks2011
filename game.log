@@ -1,0 +1,25 @@
+HGE Started..
+
+HGE version: 1.80
+Date: 03.05.2023, 13:10:44
+
+Application: Victory tank
+OS: Windows 6.2.9200
+Memory: 2097151K total, 1280280K free
+
+D3D Driver: igdumdim32.dll
+Description: Intel(R) HD Graphics 4000
+Version: 10.18.10.4276
+Can't find appropriate full screen video mode
+Mode: 900 x 800 x UNKNOWN
+
+Sound Device: Динамики (Realtek High Definition Audio)
+Sample rate: 44100
+
+Init done.
+
+Can't load resource: image/PTankSheet5.png
+Can't load resource: sound/Menu.mp3
+
+Finishing..
+The End.
